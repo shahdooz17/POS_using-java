@@ -1,0 +1,5 @@
+
+Product Name: apple - Product ID: 45 - Category: food - Price: 13.0 - Production Date: 12-10-2023 - Expiration Date: 12-11-2023 - Quantity: 145
+
+
+

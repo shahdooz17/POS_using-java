@@ -1,0 +1,5 @@
+
+
+
+Product Name: laptop - Product ID: 1 - Category: electronics - Price: 24000.0 - Production Date: 10-11-2022 - Expiration Date: 10-11-2024 - Quantity: 13
+
